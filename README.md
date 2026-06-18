@@ -1,6 +1,4 @@
-## Hola mi Nombre es Tomás ⚽
-
-### ¡Hola! Soy Tomás 👋
+###⚽¡Hola! Soy Tomás 👋
 
 Estudiante de :computer:**Ingeniería de Sistemas** en la 🦉**Universidad Nacional**🦉. Me apasiona la tecnología, el desarrollo de software y la resolución de problemas lógicos. Actualmente estoy enfocado en fortalecer mis bases académicas, aprender nuevas herramientas y construir proyectos que generen un impacto positivo. ¡Bienvenido a mi espacio de código!
 ## Lenguajes y Tecnologías 
